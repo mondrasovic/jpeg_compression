@@ -1,2 +1,3 @@
-# jpeg_compression
-A JPEG compression detection and quality estimation.
+# JPEG Compression
+
+A **JPEG compression** detection and quality estimation.
