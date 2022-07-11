@@ -1,3 +1,13 @@
+.vscode
+*.tiff
+*.png
+*.jpg
+*.jpeg
+*.bmp
+
+checkpoints
+logs
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
